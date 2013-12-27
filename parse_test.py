@@ -1,4 +1,3 @@
-
 def parse_test(file_name):
 
     user_test={}
